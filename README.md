@@ -5,3 +5,7 @@ we will have 5 days of learning
 day 1:setup, say I hi to android app dev
 using react native
 
+Learned git commands via vsc
+-clone
+-add
+-commit
